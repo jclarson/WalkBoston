@@ -2,7 +2,7 @@
 
 Walk Boston
 
-#Description:
+# Description:
 
 The goal of this page was to pick out the top 5 earners in Boston (total salary + overtime) and list them out in the web page as shown below:
 Name     Total Earned 
